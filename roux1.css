@@ -10,7 +10,7 @@ border-color: #e8dd63;
 #roux2
 {width: 100px;
 height: 100px;
-border: 2px solid #F4A460;
+border: 2px solid #e8dd63;
 -moz-transform:rotate(6deg);
 -webkit-transform:rotate(6deg);
 margin-top: -10px;}
@@ -18,7 +18,7 @@ margin-top: -10px;}
 #roux3
 {width: 100px;
 height: 100px;
-border: 2px solid #e8dd63;
+border: 2px solid #F4A460;
 -moz-transform:rotate(13deg);
 -webkit-transform:rotate(13deg);
 margin-top: -200px;
