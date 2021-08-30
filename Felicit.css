@@ -1,20 +1,20 @@
-#feli
+#felic
 {width:278px;
 height:30px;
 background:none;
 clip-path:polygon(100% 0, 1% 0, 100% 99%);
 font:25px Festive;
-line-height:30px;
+line-height:32px;
 text-align:left;
 color:#ea61a2;}
 
-#city
+#ity
 {width:278px;
 height:30px;
 background:none;
 clip-path:polygon(99% 100%, 0 1%, 0 100%);
 font:25px Festive;
-line-height: 30px;
-text-align:center;
+line-height: 32px;
+text-align:left;
 color:#e7c53f;
 margin-top:-30px;}
