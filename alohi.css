@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Baloo+2&display=swap');
+
+.alo {
+width:450px;
+font:40px Cookie;
+color:#6A22C9;
+margin-top:-28px;
+margin-left:115px;
+text-shadow: 0px 1px 0px;}
+
+.ha {
+width:450px;
+font:12px Baloo 2;
+color:grey;
+text-align:center;
+margin-top:-10px;}
