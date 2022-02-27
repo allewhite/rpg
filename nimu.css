@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Twinkle+Star&family=Delius&display=swap');
 
 .nim1 {
-width:70px;
-height:70px;
-background:url(https://imgur.com/bNB8VFV.png);
-margin-bottom:-60px;
+width:440px;
+font:26px Twinkle Star;
+color:#8c8c00;
+text-shadow:3px 3px 2px #000;
 position:relative;
-right:210px;}
+margin-bottom:-8px;
+position:relative;
+right:-18px;}
 
 .nim2 {
 width:420px;
