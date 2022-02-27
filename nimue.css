@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Twinkle+Star&family=Delius&display=swap');
+
+.nim1 {
+width:70px;
+height:70px;
+background:url(https://imgur.com/bNB8VFV.png);
+margin-bottom:-60px;
+position:relative;
+right:210px;}
+
+.nim2 {
+width:420px;
+font:11px Delius;
+color:#9e9e9e;
+margin-top:-4px;}
