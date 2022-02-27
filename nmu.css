@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Twinkle+Star&display=swap');
 
-.nim1 {
+#nim1 {
 width:440px;
-font:26px Twinkle Star;
+font-family:Twinkle Star;
+font-size: 26px;
 color:#8c8c00;
 text-shadow:3px 3px 2px #000;
 position:relative;
@@ -10,8 +11,9 @@ margin-bottom:-8px;
 position:relative;
 right:-18px;}
 
-.nim2 {
+#nim2 {
 width:420px;
-font:11px Delius;
+font-family:Delius;
+font-size: 11px;
 color:#9e9e9e;
 margin-top:-4px;}
