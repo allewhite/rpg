@@ -3,7 +3,7 @@
 .yep1 {
 width: 130px; 
 height: 130px; 
-background:linear-gradient(to left, #F4A460, #e8dd63, #6A22C9);
+background:linear-gradient(to left, #e8dd63, #F4A460, #6A22C9);
 -webkit-animation: maisum 10s linear infinite alternate; 
 -moz-animation: maisum 10s linear infinite alternate; 
 position:relative;} 
