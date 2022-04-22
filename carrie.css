@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Rochester&display=swap');
+
+.carred {
+width:100px;
+height:100px;} 
+
+.carres {
+width:326px;
+text-align:justify;
+margin-top:2px;} 
+
+.carded {
+width:300px;
+text-align:left;
+margin-bottom:-10px;
+position:relative;
+z-index:1;} 
+
+.carmar {
+width:326px;
+height:110px;
+margin-top:-113px;}
