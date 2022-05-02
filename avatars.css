@@ -1,0 +1,27 @@
+.avat1 {
+width:750px;
+background:#070707;
+padding:10px;
+box-shadow: 0px 0px 8px #5A2D6C;}
+
+.avat2 {
+width:750px;
+font:30px Cinzel Decorative;
+color: #6B1111;
+text-align:center;
+text-shadow: 0px 0px 1px #050505;}
+
+.avat3 {
+width:350px;
+height:20px;
+font:15px Arima Madurai;
+color:#000;
+background:#5A2D6C;
+text-align:center;
+padding:3px;}
+
+.avat4 {
+width:350px;
+font:28px Mirza;
+color:#5A2D6C;
+text-align:center;}
