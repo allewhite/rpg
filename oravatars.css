@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lato&family=Macondo&display=swap');
+
+.ava
+{width:700px;
+background:#000;
+font: 35px Macondo;
+color:#2d3d2b;
+text-align:center;
+text-shadow: 0px 0px 1px #696969;}
+
+.tars
+{width:700px;
+padding:5px;
+background:#000;
+font: 12.5px Lato;
+color:#797a79;
+text-align:justify;
+line-height:150%;}
+
+.av
+{width: 50px;
+border-left:650px solid #2d3d2b;
+border-bottom:3px solid #2d3d2b;
+border-top:3px solid #2d3d2b;
+border-right:3px solid #2d3d2b;
+text-align: center;
+color: #453018;
+font: 40px Macondo;
+  
+.at
+{width: 50px;
+border-right:650px solid #2d3d2b;
+border-bottom:3px solid #2d3d2b;
+border-top:3px solid #2d3d2b;
+border-left:3px solid #2d3d2b;
+text-align: center;
+color: #453018;
+font: 40px Macondo;
+
+.delfos
+{width:700px;
+font: 13px Itim;
+color:#453018;
+text-align:center;
+margin-top:-5px;
+letter-spacing:1px;}
+
+.ord
+{width:700px;
+font: 8px Calibri;
+color:#2d3d2b;
+text-align:center;}
