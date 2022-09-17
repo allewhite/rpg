@@ -1,4 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Lato&family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lato&family=Macondo&display=swap');
+
+.ood
+{width: 540px;
+height:250px;
+filter:sepia(50%);
+box-shadow: inset 0px 0px 5px 2px #000000;
+margin-top:5px;
+margin-bottom:8px;}
 
 .oraculo
 {width:700px;
@@ -19,7 +27,7 @@ text-shadow: 0px 0px 1px #696969;}
 
 .delfos
 {width:700px;
-font: 13px Aboreto;
+font: 13px Itim;
 color:#453018;
 text-align:center;
 margin-top:-8px;}
