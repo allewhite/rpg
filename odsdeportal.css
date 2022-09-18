@@ -37,17 +37,3 @@ letter-spacing:1px;}
 font: 8px Calibri;
 color:#2d3d2b;
 text-align:center;}
-
-.scrodlf::-webkit-scrollbar
-{background-color: #453018;
-height: 8px;
-width: 4px;}
-
-.scrodlf::-webkit-scrollbar-corner
-{background-color: #453018;}
-
-.scrodlf::-webkit-scrollbar-thumb
-{background-color: #2d3d2b;}
-
-.scrodlf::-webkit-scrollbar-track
-{background-color: #453018;}
