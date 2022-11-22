@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
 
 #ch
-{width:278px;
+{width:478px;
 height:30px;
 clip-path:polygon(100% 0, 1% 0, 100% 99%);
 font:42px Fleur De Leah;
@@ -10,7 +10,7 @@ text-align:left;
 color:#CDBE70;}
 
 #ris
-{width:278px;
+{width:478px;
 height:30px;
 clip-path:polygon(99% 100%, 0 1%, 0 100%);
 font:42px Fleur De Leah;
