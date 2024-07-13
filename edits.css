@@ -1,0 +1,107 @@
+/*
+
+  TEMPLATE CRIADO POR ROSS, NÃO TIRE OS CRÉDITOS
+
+*/
+
+#rparceiros {
+  width: 1120px;
+  height: 243px;
+  background-color: transparent;
+  overflow: hidden;
+  padding: 35px;
+  transition: all .3s ease;
+}
+
+#rparceiros .rdec {
+  width: 820px;
+  height: 900px;
+  background-color: transparent;
+  border: 10px solid #2d3d2b;
+  transform: rotate(65deg);
+  position: relative;
+  top: -360px;
+  right: -120px;
+}
+
+#rparceiros .rcontainer {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 15px;
+  text-align: left;
+  position: relative;
+  z-index: 5;
+}
+
+#rparceiros:hover {
+  background-color: transparent;
+  background-blend-mode: multiply;
+  transition: all .3s ease;
+}
+
+#rparceiros .rcontainer img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin: 1px;
+  opacity: .9;
+  transform: scale(.9);
+  filter: brightness(0.6);
+  transition: all .5s ease;
+}
+
+#rparceiros .rcontainer img:hover {
+  opacity: 1;
+  transform: scale(1.2);
+  filter: brightness(1);
+  position: relative;
+  z-index: 4;
+  transition: all .5s ease;
+}
+
+#rparceiros .rcontainer h2 {
+  font: italic bold 37px/20px Times;
+  text-transform: lowercase;
+  letter-spacing: -1.5px;
+  margin: 5px 10px 15px 25px;
+  padding: 5px 0;
+  color: #000;
+  transition: all .3s ease;
+}
+
+#rparceiros:hover .rcontainer h2 {
+  color: #a20402;
+  transition: all .3s ease;
+}
+
+#rparceiros .rparceiros {
+  width: 69%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#rparceiros .rafiliados {
+  width: 31%;
+  display:inline-block;
+  vertical-align: top;
+  margin-left: 0px;
+}
+
+#rparceiros .rafiliados img {
+  width: 100px;
+  height: 50px;
+  object-fit: cover;
+}
+
+#rparceiros:after {
+  display: block;
+  margin-top: 3px;
+  content: "「R」";
+  font: bold 8px Consolas;
+  text-transform: uppercase;
+  color: #453018;
+  letter-spacing: -.5px;
+  opacity: .5;
+}
